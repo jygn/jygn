@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Algo Visualization (personnal project).
 - 🌱 I’m currently learning react.js and spring boot.
-- 📫 How to reach me: linkedin.com/in/jessy-grondin
+- 📫 How to reach me : jessy-g92@hotmail.com
 
 
 <!-- 
