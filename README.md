@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Algo Visualization (personnal project).
+- 🔭 I’m currently working on Algo Visualization.
 - 🌱 I’m currently learning react.js and spring boot.
 - 📫 How to reach me : jessy-g92@hotmail.com
 
